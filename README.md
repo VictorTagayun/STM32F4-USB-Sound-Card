@@ -3,7 +3,10 @@
 1. renamed folder to CubeSTM32F4USBAudio to be able to import to CubeIDE
 2. convert and update project
 3. error : stm32f4_discovery_audio.h: No such file or directory > add Drivers\BSP\Board in "path & symbols"
-
+4. uncomment the ff, and still ok:  
+	MX_I2C1_Init();  
+	MX_I2S3_Init();  
+  MX_DMA_Init();
 
 ## To do
 
