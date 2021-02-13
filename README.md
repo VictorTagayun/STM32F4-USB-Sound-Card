@@ -19,5 +19,5 @@
 
 ## To do
 
-1. update ioc file to F4_V1.25.2, problem at the moment
+1. update ioc file to F4_V1.25.2, problem at the moment (see above)
 2. make a new project file
